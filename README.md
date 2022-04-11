@@ -25,8 +25,8 @@
 <img src="https://camo.githubusercontent.com/46c533b08ee4eb9c41b0df7bd81e0a752dc350663765cc6eb180792680271c83/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3931392f3931393832352e737667" width="50px"/> <img src="https://www.clipartmax.com/png/middle/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" width="50px" height="50px"/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhalayush1998&show_icons=true&locale=en" alt="singhalayush1998" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BiswajitDas1802&show_icons=true&locale=en&theme=radical" alt="BiswajitDas1802" /></p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhalayush1998&show_icons=true&locale=en&layout=compact" alt="singhalayush1998" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BiswajitDas1802&show_icons=true&locale=en&layout=compact&theme=radical" alt="BiswajitDas1802" /></p>
