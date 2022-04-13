@@ -32,3 +32,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BiswajitDas1802&show_icons=true&locale=en&layout=compact&theme=radical" alt="BiswajitDas1802" /></p>
+<br/>
+
+
+[![Biswajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=BiswajitDas1802&theme=react-dark)](https://github.com/BiswajitDas1802/github-readme-activity-graph)
+
+
+<br/>
+
